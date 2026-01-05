@@ -1,0 +1,3 @@
+Test soubor vytvořený ručně
+Datum: 10. září 2025
+Účel: Test upload funkčnosti
